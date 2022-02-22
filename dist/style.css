@@ -1,0 +1,10 @@
+#nav{
+    background-color: rgb(122, 62, 62);
+    color: white;
+    padding: 20px;
+}
+
+.card-header{
+    background-color: rgb(27, 118, 255);
+    color: white;
+}
