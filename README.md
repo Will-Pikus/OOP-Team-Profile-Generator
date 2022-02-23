@@ -10,6 +10,7 @@ Generatehtml created blocks for each employee type and joins them to the main ht
 
 index.js requires the abforementioned classes, html, fs and inquirer. It includes the prompts for the user, determines roles based on user input, and writes to the index.html file.
 ## Walkthrough video
+https://youtu.be/mR-5JB491II
 ![Alt Text](./media/walkthrough-tpg.gif)
 ## Site Link
 https://will-pikus.github.io/OOP-Team-Profile-Generator/
