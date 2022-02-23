@@ -13,4 +13,4 @@ index.js requires the abforementioned classes, html, fs and inquirer. It include
 https://youtu.be/mR-5JB491II
 ![Alt Text](./media/walkthrough-tpg.gif)
 ## Site Link
-https://will-pikus.github.io/OOP-Team-Profile-Generator/
+https://will-pikus.github.io/OOP-Team-Profile-Generator/dist/index.html
