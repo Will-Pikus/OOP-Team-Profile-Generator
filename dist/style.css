@@ -1,10 +1,41 @@
 #nav{
-    background-color: rgb(122, 62, 62);
+    background-color: rgb(39, 39, 39);
     color: white;
     padding: 20px;
 }
 
 .card-header{
-    background-color: rgb(27, 118, 255);
     color: white;
+}
+
+.manager-header{
+    background-color: rgb(119, 33, 33);
+}
+
+.intern-header{
+    background-color: rgb(39, 65, 37);
+}
+
+.eng-header{
+    background-color: rgb(35, 43, 70);
+}
+
+.card-header h3{
+    border-bottom: solid 1px rgb(241, 241, 241);
+    width: 50%;
+    margin-bottom: 5px;
+    padding: 5px;
+}
+
+.line-style{
+    background-color: rgb(241, 241, 241);
+    border: solid 2px rgb(214, 214, 214);
+    padding: 10px;
+    margin: 5px;
+    font-size: large;
+}
+
+.card{
+    background-color: rgb(219, 219, 219);
+    box-shadow: 10px 10px 5px rgb(97, 97, 97);
 }
